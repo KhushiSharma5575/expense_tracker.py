@@ -1,0 +1,12 @@
+[
+    {
+        "category": "food",
+        "amount": 500.0,
+        "description": "lunch"
+    },
+    {
+        "category": "food",
+        "amount": 500.0,
+        "description": "extra"
+    }
+]
